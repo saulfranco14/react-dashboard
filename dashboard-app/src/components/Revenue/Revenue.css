@@ -1,0 +1,84 @@
+.Revenue{
+    margin: 20px;
+}
+.revenueContainer{
+    background          : white;
+    border-radius       : 50%; 
+    height              : 150px; 
+    width               : 150px;
+    display             : flex;
+    border              : 5px solid;
+    margin              : auto ;
+    flex-direction      : column;
+    border-bottom-color : #3CB371;
+    border-left-color   : #3CB371;
+    border-right-color  : #006400;
+    border-top-color    : #3CB371;
+}
+
+.titleOne{
+    width               : 100%;
+    font-weight         : bold;
+    font-size           : 16px;
+    color               : gray;
+    display             : flex;
+    justify-content     : center;
+    margin              : 40px 0px 0px 0px;
+}
+
+.subtitle{
+    width               : 150px;
+    font-weight         : bold;
+    font-size           : 20px;
+    color               : black;
+    text-align          : center;
+    display             : flex;
+    margin-top          : 0px;
+    justify-content     : center;
+}
+
+.titleTwo{
+    font-size           : 12px;
+    font-weight         : bold;
+    color               : #3CB371;
+    margin-bottom       : 0px;
+}
+
+.titleTwo__{
+    font-size           : 12px;
+    font-weight         : bold;
+    color               : #006400;
+    margin-bottom       : 0px;
+}
+
+.porcentContainer{
+    color               : black;
+    font-size           : 14px;
+    margin-top          : 0px;
+    margin-bottom       : 0px;
+}
+
+.moneyContainer{
+    color               : gray;
+    font-size           : 14px;
+    margin-top          : 0px;
+    margin-bottom       : 0px;
+    margin-left         : 10px;
+}
+
+.containerMetrics {
+    display             : flex;
+}
+.containerText{
+    display             : flex;
+    border-bottom       : 2px solid #A9A9A9;
+    padding-bottom      : 5px;
+}
+
+.leftContainer{
+    margin-right        : 10px;
+}
+
+.rightContainer{
+    margin-left         : 10px;
+}
